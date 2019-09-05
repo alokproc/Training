@@ -1,1 +1,2 @@
-# Flask-Training
+# Topics Covered
+* Python 
