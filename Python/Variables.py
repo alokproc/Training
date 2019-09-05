@@ -10,7 +10,7 @@
 a = 5
 b = 10
 my_variable = 56
-any_variable_name = 100
+variable_name1 = 100
 
 string_variable = "hello"
 single_quotes = 'strings can have single quotes'
@@ -23,7 +23,6 @@ print(my_variable)
 ### FUNCTION section
 # Indentation is necessary
 # 'def' keyword
-# Parameters of function
 
 # Function 1
 
@@ -35,16 +34,13 @@ my_print_method(string_variable)                        # calling of function
 
 # Function 2
 
-def my_multiplication_method(number_one, number_two):
-    return number_one * number_two                      # returning a value
+def my_multiplication_method(number_1, number_2):
+    return number_1 * number_2                      # returning a value
 
 result = my_multiplication_method(a, b)
 print(result)
 
-print(my_multiplication_method(56, 75))
+print(my_multiplication_method(10, 5))
 
-my_print_method(my_multiplication_method('b', 5))  # What would this do?`
-
+my_print_method(my_multiplication_method('b', 5))  
 ''' function within function '''
-
-''' pass means do nothing '''
