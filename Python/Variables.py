@@ -3,7 +3,7 @@
 # no starting with number
 # No special characters
 # No length specified for name of variable
-# String, characters, float, integer
+# String, float, integer
 # No difference between single/double quotes 
 # Printing will bring all things to console
 # print()- some action is performed
