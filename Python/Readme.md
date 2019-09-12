@@ -2,3 +2,4 @@
 * Variables
 * Lists, Sets, Tuples
 * Numbers
+* Strings
