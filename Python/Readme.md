@@ -3,3 +3,5 @@
 * Lists, Sets, Tuples
 * Numbers
 * Strings
+* Dictionaries
+* Tuples
