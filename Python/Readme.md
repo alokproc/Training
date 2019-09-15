@@ -1,4 +1,4 @@
-# Scripts for Python refreshment
+# Python refreshment
 * Variables
 * Lists, Sets, Tuples
 * Numbers
